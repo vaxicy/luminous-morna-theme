@@ -21,7 +21,7 @@ OUT = "store-assets"
 
 def main():
     os.makedirs(OUT, exist_ok=True)
-    master = logo.c_aperture_dawn(logo.S, logo.DARK).resize(
+    master = logo.c_aperture_dawn(logo.S, logo.LIGHT).resize(
         (logo.BASE, logo.BASE), Image.LANCZOS)
 
     for size in (512, 256, 128):
