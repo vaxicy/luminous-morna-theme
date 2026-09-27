@@ -10,7 +10,7 @@ Warm, luminous light and dark themes for VS Code.
 
 [![VS Code Theme](https://img.shields.io/badge/VS%20Code-Theme-1D7D75?logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=lilinhuang.luminous-morna-theme)
 ![Version](https://img.shields.io/badge/version-1.0.0-1D7D75)
-![License](https://img.shields.io/badge/license-MIT-2D2C25)
+![License](https://img.shields.io/badge/license-Non--Commercial-red)
 
 </div>
 
@@ -50,6 +50,7 @@ Dark
 
 ## License
 
-Released under the [MIT License](LICENSE).
+Released under the **Non-Commercial License** - free for personal, educational and
+non-commercial use. Commercial use requires prior written permission; see [LICENSE](LICENSE).
 
 

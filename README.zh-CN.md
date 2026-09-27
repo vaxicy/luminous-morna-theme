@@ -10,7 +10,7 @@
 
 [![VS Code Theme](https://img.shields.io/badge/VS%20Code-Theme-1D7D75?logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=lilinhuang.luminous-morna-theme)
 ![Version](https://img.shields.io/badge/version-1.0.0-1D7D75)
-![License](https://img.shields.io/badge/license-MIT-2D2C25)
+![License](https://img.shields.io/badge/license-Non--Commercial-red)
 
 </div>
 
@@ -49,5 +49,5 @@
 
 ## 许可证
 
-本项目采用 [MIT 许可证](LICENSE)。
+采用**非商业使用许可**：个人使用、教学等非商业用途免费；商业用途需事先获得书面授权。详见 [LICENSE](LICENSE)。
 
