@@ -1,0 +1,48 @@
+{
+  "name": "luminous-morna-theme",
+  "displayName": "Luminous Morna Theme",
+  "description": "Warm, luminous light and dark colour themes for VS Code - cream and olive neutrals with a teal accent.",
+  "version": "1.0.0",
+  "publisher": "lilinhuang",
+  "icon": "store-assets/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaxicy/luminous-morna-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "galleryBanner": {
+    "color": "#EFEEE1",
+    "theme": "light"
+  },
+  "keywords": [
+    "theme",
+    "color-theme",
+    "vscode-theme",
+    "light-theme",
+    "dark-theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Luminous Morna Theme Light",
+        "uiTheme": "vs",
+        "path": "./themes/luminous-morna-theme-light-color-theme.json"
+      },
+      {
+        "label": "Luminous Morna Theme Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/luminous-morna-theme-dark-color-theme.json"
+      }
+    ]
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/vaxicy/luminous-morna-theme#readme",
+  "bugs": {
+    "url": "https://github.com/vaxicy/luminous-morna-theme/issues"
+  }
+}

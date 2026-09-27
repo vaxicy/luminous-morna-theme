@@ -1,0 +1,3 @@
+# CodeBuddy working memory / local machine data - never commit
+.codebuddy/
+__pycache__/

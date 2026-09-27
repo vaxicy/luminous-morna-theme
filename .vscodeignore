@@ -1,0 +1,6 @@
+# local machine data / working memory - must not end up in the .vsix
+.codebuddy/
+.vscode/
+# dev-only helpers, not needed at runtime
+scripts/
+store-assets/logo-candidates/

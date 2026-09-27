@@ -1,0 +1,34 @@
+:root {
+  --canvas: #fcfbed;
+  --ink: #2d2c25;
+  --accent: #1d7d75;
+  --bloom: #bed8cb;
+  --radius: 8px;
+}
+
+body {
+  margin: 0;
+  padding: 2rem;
+  color: var(--ink);
+  background: var(--canvas);
+  font-family: "Segoe UI", system-ui, sans-serif;
+}
+
+.card {
+  border: 1px solid var(--bloom);
+  border-radius: var(--radius);
+  padding: 1rem 1.25rem;
+  transition: box-shadow 160ms ease;
+}
+
+.card:hover {
+  box-shadow: 0 6px 18px rgb(29 125 117 / 18%);
+}
+
+@media (width >= 720px) {
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1rem;
+  }
+}
