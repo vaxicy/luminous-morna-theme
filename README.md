@@ -9,7 +9,7 @@ Warm, luminous light and dark themes for VS Code.
 **English** | [简体中文](README.zh-CN.md)
 
 [![VS Code Theme](https://img.shields.io/badge/VS%20Code-Theme-1D7D75?logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=lilinhuang.luminous-morna-theme)
-![Version](https://img.shields.io/badge/version-1.0.0-1D7D75)
+![Version](https://img.shields.io/badge/version-1.0.1-1D7D75)
 ![License](https://img.shields.io/badge/license-Non--Commercial-red)
 
 </div>
