@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vaxicy/luminous-morna-theme/main/store-assets/icon.png" alt="Luminous Morna Theme 图标" width="96">
+<img src="https://raw.githubusercontent.com/vaxicy/luminous-morna-theme/main/store-assets/icon.png?v=2" alt="Luminous Morna Theme 图标" width="96">
 
 # Luminous Morna Theme
 
